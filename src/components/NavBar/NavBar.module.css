@@ -1,0 +1,18 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+}
+.subMenu{
+    display: flex;
+    gap: 10px;
+}
+.btnIcon{
+    border: solid blue 1px;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
